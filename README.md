@@ -21,6 +21,7 @@ Our team created a web service where pets grow based on GitHub commitments.
 ## Links
 <a href="https://www.linkedin.com/in/nao-teranishi"><img align="left" src="https://github.com/hanaosan/hanaosan/assets/81733963/a1dd4d31-4475-4b8b-bdf4-00efe6f6ac12" alt="icon | LinkedIn" width="40px"/></a>
 <a href="https://qiita.com/hanaosan"><img align="left" src="https://github.com/hanaosan/hanaosan/assets/81733963/e29e7731-9142-4972-830f-9f314b2d5a1f" alt="icon | Qiita" width="40px"/></a>
+<a href="https://dev.to/hanaosan"><img align="left" src="https://github.com/hanaosan/hanaosan/assets/81733963/e177c6ff-7552-4b88-93c9-acc7b9ab3225" alt="icon | Dev.to" width="40px"/></a>
 
 
 <!--
